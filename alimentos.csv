@@ -1,0 +1,27 @@
+alimento,categoria,proteinas,calorias,beneficio,recomendacion,ideal_para
+Pollo a la plancha,Proteína,25,165,Recuperación muscular,Excelente post-entreno,post
+Pechuga de pollo,Proteína,27,140,Alta proteína baja grasa,Post-entreno principal,post
+Batido de proteína whey,Proteína,30,120,Recuperación rápida,Ideal después de gym,post
+Yogurt griego natural,Proteína,15,100,Proteína + probióticos,Post-entreno o merienda,post
+Huevos revueltos,Proteína,18,220,Alto valor biológico,Desayuno o post-entreno,post
+Salmón al horno,Proteína,22,200,Omega 3 antiinflamatorio,Post-entreno premium,post
+Atún en agua,Proteína,25,100,Proteína económica,Post-entreno rápido,post
+Carne de res magra,Proteína,26,180,Hierro y zinc,Post-entreno fuerza,post
+Tortilla de claras,Proteína,20,140,Bajo en grasa,Post-entreno ligero,post
+Queso cottage,Proteína,14,98,Proteína lenta,Snack nocturno,post
+Avena con frutas,Carbohidrato,8,280,Energía sostenida,Pre-entreno o desayuno,pre
+Banana con crema de maní,Carbohidrato,6,250,Potasio + grasas saludables,Post o pre,post
+Arroz integral,Carbohidrato,5,220,Recarga de glucógeno,Post-entreno,post
+Papa dulce al horno,Carbohidrato,4,180,Energía + vitamina A,Pre o post,pre
+Quinoa,Carbohidrato,8,222,Proteína completa,Pre y post,post
+Pasta integral,Carbohidrato,7,200,Energía sostenida,Pre-entreno,pre
+Batido de plátano y avena,Carbohidrato,10,320,Recarga ideal,Post-entreno,post
+Manzana con almendras,Carbohidrato,6,220,Snacks saludable,Merienda,post
+Hummus con zanahoria,Carbohidrato,6,180,Snacks saludable,Merienda,post
+Tortilla de avena y plátano,Carbohidrato,12,350,Energía pre-entreno,pre
+Salmón ahumado,Proteína,20,150,Omega 3,Post-entreno,post
+Tofu,Proteína,15,120,Proteína vegetal,Post-entreno vegano,post
+Lentejas,Proteína,9,116,Proteína + fibra,Post-entreno,post
+Garbanzos,Proteína,8,164,Proteína vegetal,Post-entreno,post
+Batido de caseína,Proteína,24,110,Proteína lenta,Antes de dormir,post
+Claras de huevo,Proteína,11,52,Bajo en calorías,Post-entreno ligero,post
